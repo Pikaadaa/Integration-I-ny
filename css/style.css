@@ -368,6 +368,7 @@ form {
     grid-template-columns: 1fr 1fr 1fr 1fr;
     grid-auto-columns: 1fr;
     display: grid;
+    align-items: baseline;
 }
 
 .services-btn {
@@ -607,6 +608,8 @@ modal-menu .btn {
     text-align: center;
     margin-top: 10px;
 }
+
+
 
 @media screen and (max-width: 992px) {
 
